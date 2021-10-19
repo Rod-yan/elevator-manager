@@ -1,4 +1,6 @@
+catalina.home_IS_UNDEFINED/
 target/
+.mvn/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/

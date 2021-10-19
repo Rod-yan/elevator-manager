@@ -1,0 +1,770 @@
+2021-10-18 15:19:49,491 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 31464 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 15:19:49,492 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 15:19:49,496 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 15:19:52,154 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 3.133 seconds (JVM running for 4.323)
+2021-10-18 15:22:02,646 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 32896 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 15:22:02,647 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 15:22:02,648 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 15:22:05,316 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 3.043 seconds (JVM running for 4.04)
+2021-10-18 15:22:28,453 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 12612 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 15:22:28,454 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 15:22:28,456 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 15:22:31,111 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.977 seconds (JVM running for 4.041)
+2021-10-18 15:22:46,410 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 9372 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 15:22:46,414 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 15:22:46,423 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 15:22:49,124 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 3.077 seconds (JVM running for 4.175)
+2021-10-18 15:27:29,961 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 34256 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 15:27:29,962 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 15:27:29,973 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 15:27:32,698 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 3.103 seconds (JVM running for 4.184)
+2021-10-18 15:45:40,736 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 29704 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 15:45:40,737 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 15:45:40,742 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 15:45:43,448 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.955 seconds (JVM running for 4.049)
+2021-10-18 15:47:15,175 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 39364 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 15:47:15,177 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 15:47:15,183 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 15:47:17,795 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.875 seconds (JVM running for 3.969)
+2021-10-18 16:36:10,716 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 40140 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 16:36:10,719 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 16:36:10,721 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 16:36:14,521 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 4.235 seconds (JVM running for 5.32)
+2021-10-18 16:37:02,700 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 20688 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 16:37:02,700 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 16:37:02,702 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 16:37:05,274 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.919 seconds (JVM running for 4.002)
+2021-10-18 16:39:23,000 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 25168 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 16:39:23,001 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 16:39:23,004 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 16:39:25,507 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.846 seconds (JVM running for 3.796)
+2021-10-18 16:44:02,748 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 35196 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 16:44:02,752 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 16:44:02,765 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 16:44:04,690 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.299 seconds (JVM running for 3.332)
+2021-10-18 16:44:04,794 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 16:44:04,888 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 16:44:04,892 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 16:45:41,602 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 22392 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 16:45:41,603 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 16:45:41,609 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 16:45:43,574 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.313 seconds (JVM running for 3.347)
+2021-10-18 16:45:43,676 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 16:45:43,752 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 16:45:43,756 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 16:46:49,739 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 36400 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 16:46:49,740 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 16:46:49,741 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 16:46:51,612 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.205 seconds (JVM running for 3.282)
+2021-10-18 16:46:51,782 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 16:46:51,888 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 16:46:51,892 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 16:49:12,229 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 34828 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 16:49:12,229 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 16:49:12,230 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 16:49:14,222 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.303 seconds (JVM running for 3.322)
+2021-10-18 16:49:14,381 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 16:49:14,507 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 16:49:14,511 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 16:50:16,303 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 15384 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 16:50:16,304 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 16:50:16,306 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 16:50:18,221 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.243 seconds (JVM running for 3.257)
+2021-10-18 16:50:18,384 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 16:50:18,504 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 16:50:18,508 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 16:56:38,706 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 36592 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 16:56:38,707 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 16:56:38,709 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 16:56:40,621 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.248 seconds (JVM running for 3.263)
+2021-10-18 16:56:40,769 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 16:56:40,843 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 16:56:40,847 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 16:57:16,699 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 28860 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 16:57:16,700 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 16:57:16,702 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 16:57:18,656 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.309 seconds (JVM running for 3.288)
+2021-10-18 16:57:19,000 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 16:57:19,054 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 16:57:19,069 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 16:57:19,072 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 16:58:03,919 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 27220 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 16:58:03,919 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 16:58:03,921 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 16:58:05,864 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.283 seconds (JVM running for 3.318)
+2021-10-18 16:58:06,197 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 16:58:06,245 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 16:58:06,254 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 16:58:06,254 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 16:59:25,591 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 16344 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 16:59:25,592 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 16:59:25,594 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 16:59:27,505 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.247 seconds (JVM running for 3.217)
+2021-10-18 16:59:27,803 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 16:59:27,863 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 16:59:27,876 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 16:59:27,878 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:00:22,345 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 35476 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:00:22,346 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:00:22,347 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:00:24,316 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.293 seconds (JVM running for 3.267)
+2021-10-18 17:00:24,631 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:00:24,694 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:00:24,707 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:00:24,709 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:07:45,924 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 39036 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:07:45,924 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:07:45,927 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:07:47,864 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.271 seconds (JVM running for 3.307)
+2021-10-18 17:07:48,247 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:07:48,284 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:07:48,293 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:07:48,296 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:08:35,845 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 39768 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:08:35,846 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:08:35,848 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:08:37,795 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.259 seconds (JVM running for 3.281)
+2021-10-18 17:08:38,128 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:08:38,135 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:08:38,165 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:08:38,184 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:08:38,185 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:08:51,949 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 12152 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:08:51,949 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:08:51,951 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:08:54,222 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.693 seconds (JVM running for 3.886)
+2021-10-18 17:08:54,624 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:08:54,683 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:08:54,697 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:08:54,700 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:09:09,054 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 8020 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:09:09,055 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:09:09,056 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:09:10,974 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.245 seconds (JVM running for 3.217)
+2021-10-18 17:09:11,301 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:09:11,307 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:09:11,333 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:09:11,354 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:09:11,354 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:09:27,633 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 32460 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:09:27,634 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:09:27,637 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:09:29,615 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.294 seconds (JVM running for 3.279)
+2021-10-18 17:09:29,883 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:09:29,889 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:09:29,916 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:09:29,940 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:09:29,941 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:10:29,465 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 37444 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:10:29,466 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:10:29,467 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:10:31,382 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.251 seconds (JVM running for 3.268)
+2021-10-18 17:10:31,747 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:10:31,752 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:10:31,781 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:10:31,800 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:10:31,801 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:12:53,868 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 35992 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:12:53,869 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:12:53,872 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:12:55,788 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.248 seconds (JVM running for 3.283)
+2021-10-18 17:12:56,053 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:12:56,060 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:12:56,087 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 1500.0, selected floor: 15
+2021-10-18 17:12:56,088 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:12:56,099 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:12:56,122 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:12:56,123 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:13:30,474 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 34544 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:13:30,475 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:13:30,477 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:13:32,389 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.234 seconds (JVM running for 3.281)
+2021-10-18 17:13:32,716 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:13:32,722 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:13:32,758 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 1500.0, selected floor: 15
+2021-10-18 17:13:32,759 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:13:32,775 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:13:32,798 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:13:32,798 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:14:34,355 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 30000 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:14:34,355 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:14:34,357 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:14:36,317 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.279 seconds (JVM running for 3.284)
+2021-10-18 17:14:36,676 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:14:36,683 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:14:36,709 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 1500.0, selected floor: 15
+2021-10-18 17:14:36,733 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:14:36,741 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:14:36,741 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:16:13,929 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 30784 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:16:13,930 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:16:13,933 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:16:17,109 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 3.758 seconds (JVM running for 5.564)
+2021-10-18 17:16:17,595 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:16:17,606 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:16:17,654 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 1500.0, selected floor: 15
+2021-10-18 17:16:17,655 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:16:17,688 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:16:17,751 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:16:17,752 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:17:45,508 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 18168 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:17:45,510 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:17:45,513 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:17:48,304 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 3.301 seconds (JVM running for 4.859)
+2021-10-18 17:17:48,747 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:18:52,182 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:18:52,217 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 1500.0, selected floor: 15
+2021-10-18 17:18:58,045 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:18:58,064 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:18:58,086 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:18:58,087 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:19:39,896 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 39696 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:19:39,896 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:19:39,898 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:19:41,938 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.366 seconds (JVM running for 3.322)
+2021-10-18 17:19:42,267 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:19:42,274 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:19:42,317 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:19:42,335 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:19:42,335 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:21:32,005 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 40212 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:21:32,006 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:21:32,007 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:21:33,894 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.225 seconds (JVM running for 3.221)
+2021-10-18 17:21:34,251 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:21:34,257 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:21:34,285 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 1500.0, selected floor: 15
+2021-10-18 17:21:34,286 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:21:34,299 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:21:34,318 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:21:34,319 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:21:46,216 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 12528 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:21:46,217 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:21:46,218 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:21:48,084 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.224 seconds (JVM running for 3.186)
+2021-10-18 17:21:48,433 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:21:48,439 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:21:48,465 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 1500.0, selected floor: 15
+2021-10-18 17:21:48,488 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:21:48,494 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:21:48,495 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:22:20,612 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 16356 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:22:20,613 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:22:20,616 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:22:23,687 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 3.654 seconds (JVM running for 5.206)
+2021-10-18 17:22:24,133 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 600.0, selected floor: 15
+2021-10-18 17:22:28,455 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:22:28,498 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 1500.0, selected floor: 15
+2021-10-18 17:22:32,807 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:22:32,817 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:22:32,818 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:31:31,553 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 14820 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:31:31,554 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:31:31,556 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:31:33,473 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.245 seconds (JVM running for 3.221)
+2021-10-18 17:31:33,733 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 17:31:33,743 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:31:33,774 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:31:33,798 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 17:31:33,815 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:43:11,676 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 41008 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:43:11,677 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:43:11,678 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:43:13,713 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.391 seconds (JVM running for 3.374)
+2021-10-18 17:43:13,974 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 17:43:13,979 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:43:14,013 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:43:14,041 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 17:43:14,062 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:43:14,063 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 17:43:26,972 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorWebLayerTest using Java 1.8.0_111 on RY-PC01 with PID 39452 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 17:43:26,972 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 17:43:26,974 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 17:43:28,888 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorWebLayerTest in 2.26 seconds (JVM running for 3.249)
+2021-10-18 17:43:29,205 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 17:43:29,212 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 17:43:29,237 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 17:43:29,256 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 17:43:29,257 - ERROR - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 17:43:29,264 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 17:43:29,265 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 19:35:14,619 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 34804 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 19:35:14,619 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 19:35:14,621 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 19:35:16,585 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.279 seconds (JVM running for 3.501)
+2021-10-18 19:35:16,841 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 19:35:16,847 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 19:35:16,877 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 19:35:16,878 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 19:35:16,890 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 19:35:16,911 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 19:35:16,911 - ERROR - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 19:35:16,920 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 19:35:16,921 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 19:36:04,670 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 39580 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 19:36:04,671 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 19:36:04,673 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 19:36:06,559 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.2 seconds (JVM running for 3.2)
+2021-10-18 19:36:06,813 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 19:36:06,818 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 19:36:06,845 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 19:36:06,846 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 19:36:06,855 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 19:36:06,876 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 19:36:06,876 - ERROR - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 19:36:06,884 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 19:36:06,884 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 20:05:16,587 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 36552 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:05:16,588 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:05:16,598 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:05:18,430 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.194 seconds (JVM running for 3.2)
+2021-10-18 20:05:18,666 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:05:18,673 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:05:18,710 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 20:05:18,711 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:05:18,737 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 20:05:18,760 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:05:18,760 - ERROR - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 20:05:18,770 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 20:05:18,771 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 20:05:18,889 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 36552 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:05:18,890 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:05:18,892 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:05:19,378 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 0.525 seconds (JVM running for 4.148)
+2021-10-18 20:06:02,816 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 40836 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:06:02,817 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:06:02,820 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:06:04,717 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.255 seconds (JVM running for 3.289)
+2021-10-18 20:06:04,965 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:06:04,971 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:06:05,003 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 20:06:05,005 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:06:05,026 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 20:06:05,051 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:06:05,051 - ERROR - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 20:06:05,075 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 20:06:05,075 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 20:06:05,189 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 40836 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:06:05,189 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:06:05,190 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:06:05,693 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 0.538 seconds (JVM running for 4.265)
+2021-10-18 20:06:53,025 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 42632 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:06:53,025 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:06:53,037 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:06:54,926 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.239 seconds (JVM running for 3.17)
+2021-10-18 20:06:55,230 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:06:55,239 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:06:55,271 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 20:06:55,272 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:06:55,279 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 20:06:55,300 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:06:55,300 - ERROR - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 20:06:55,313 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 20:06:55,314 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 20:06:55,462 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 42632 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:06:55,463 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:06:55,464 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:06:55,937 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 0.541 seconds (JVM running for 4.18)
+2021-10-18 20:07:34,969 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 24184 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:07:34,969 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:07:34,971 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:08:47,728 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 33008 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:08:47,729 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:08:47,730 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:08:49,739 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 2.379 seconds (JVM running for 3.351)
+2021-10-18 20:13:15,694 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 40920 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:13:15,695 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:13:15,697 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:13:17,640 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 2.262 seconds (JVM running for 3.308)
+2021-10-18 20:15:55,380 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 41928 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:15:55,381 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:15:55,383 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:15:57,233 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.216 seconds (JVM running for 3.26)
+2021-10-18 20:15:57,451 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:15:57,457 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:15:57,485 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 0.0, selected floor: 0
+2021-10-18 20:15:57,487 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 20:15:57,497 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 20:15:57,498 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:15:57,507 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 20:15:57,528 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:15:57,528 - ERROR - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 20:15:57,537 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 20:15:57,537 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 20:15:57,669 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 41928 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:15:57,669 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:15:57,749 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:15:58,174 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 0.538 seconds (JVM running for 4.201)
+2021-10-18 20:16:24,780 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 22592 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:16:24,780 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:16:24,785 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:16:26,646 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.244 seconds (JVM running for 3.238)
+2021-10-18 20:16:26,869 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:16:26,874 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:16:26,901 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 20:16:26,902 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 20:16:26,924 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 20:16:26,925 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:16:26,939 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 20:16:26,963 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:16:26,963 - ERROR - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 20:16:26,974 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 20:16:26,975 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 20:16:27,106 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 22592 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:16:27,107 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:16:27,107 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:16:27,605 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 0.534 seconds (JVM running for 4.197)
+2021-10-18 20:22:51,941 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 42176 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:22:51,942 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:22:51,948 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:22:53,798 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.224 seconds (JVM running for 3.292)
+2021-10-18 20:22:54,039 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:22:54,046 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:22:54,077 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 20:22:54,079 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 20:22:54,090 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 20:22:54,091 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:22:54,100 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 20:22:54,125 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:22:54,125 - ERROR - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 20:22:54,137 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 20:22:54,138 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 20:22:54,306 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 42176 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:22:54,306 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:22:54,307 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:22:54,793 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 0.582 seconds (JVM running for 4.287)
+2021-10-18 20:24:54,268 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 35320 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:24:54,277 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:24:54,285 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:24:56,131 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.222 seconds (JVM running for 3.238)
+2021-10-18 20:24:56,353 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:24:56,358 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:24:56,387 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 20:24:56,388 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 20:24:56,398 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 20:24:56,399 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:24:56,408 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 20:24:56,428 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:24:56,428 - ERROR - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 20:24:56,437 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 20:24:56,438 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 20:24:56,569 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 35320 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:24:56,570 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:24:56,571 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:24:57,098 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 0.57 seconds (JVM running for 4.205)
+2021-10-18 20:33:31,123 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 27256 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:33:31,123 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:33:31,128 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:33:32,923 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.169 seconds (JVM running for 3.225)
+2021-10-18 20:33:33,143 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:33:33,148 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:33:33,175 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 20:33:33,176 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 20:33:33,186 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 20:33:33,186 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:33:33,204 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 20:33:33,226 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:33:33,227 - ERROR - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 20:33:33,254 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 20:33:33,255 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 20:33:33,383 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 27256 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:33:33,383 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:33:33,384 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:33:33,822 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 0.463 seconds (JVM running for 4.124)
+2021-10-18 20:34:50,199 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 40912 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:34:50,200 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:34:50,208 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:34:52,129 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.266 seconds (JVM running for 3.216)
+2021-10-18 20:34:52,350 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:34:52,361 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:34:52,393 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 20:34:52,394 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 20:34:52,455 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 20:34:52,458 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:34:52,486 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 20:34:52,570 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:34:52,571 - ERROR - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 20:34:52,588 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 20:34:52,588 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 20:34:52,989 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 40912 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:34:52,990 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:34:52,992 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:34:53,435 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 0.703 seconds (JVM running for 4.522)
+2021-10-18 20:35:04,160 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 35224 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:35:04,161 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:35:04,163 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:35:06,052 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 2.19 seconds (JVM running for 3.172)
+2021-10-18 20:35:18,957 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 784 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:35:18,958 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:35:18,959 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:35:21,827 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 3.374 seconds (JVM running for 4.861)
+2021-10-18 20:36:03,185 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 41240 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:36:03,186 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:36:03,187 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:36:05,876 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 3.195 seconds (JVM running for 4.625)
+2021-10-18 20:37:58,519 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 39440 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:37:58,519 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:37:58,523 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:38:01,376 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 3.397 seconds (JVM running for 4.951)
+2021-10-18 20:38:51,759 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 35336 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:38:51,760 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:38:51,764 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:38:53,682 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 2.272 seconds (JVM running for 3.237)
+2021-10-18 20:41:49,656 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 38236 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:41:49,657 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:41:49,663 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:44:01,484 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 42136 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:44:01,484 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:44:01,487 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:44:03,410 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 2.253 seconds (JVM running for 3.262)
+2021-10-18 20:46:24,184 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 29452 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:46:24,185 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:46:24,186 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:46:26,069 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 2.214 seconds (JVM running for 3.227)
+2021-10-18 20:47:00,508 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 32836 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:47:00,508 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:47:00,511 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:47:02,405 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 2.197 seconds (JVM running for 3.185)
+2021-10-18 20:47:13,097 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 2200 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:47:13,097 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:47:13,099 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:47:14,999 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 2.205 seconds (JVM running for 3.221)
+2021-10-18 20:55:12,295 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 39880 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:55:12,296 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:55:12,301 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:55:15,003 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 3.207 seconds (JVM running for 4.712)
+2021-10-18 20:55:15,447 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:55:15,454 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:55:15,486 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 20:55:15,487 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 20:55:15,499 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 20:55:15,500 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:55:15,510 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 20:55:15,535 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:55:15,535 - WARN - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 20:55:15,550 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 1001.0, selected floor: 1
+2021-10-18 20:55:15,551 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:55:15,576 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 20:55:15,576 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 20:56:53,672 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 268 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:56:53,673 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:56:53,675 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:56:56,484 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 3.466 seconds (JVM running for 4.983)
+2021-10-18 20:56:56,985 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:57:23,405 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:57:23,444 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 20:57:49,429 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 20:57:49,442 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 20:58:10,679 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:58:10,695 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 20:58:10,760 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:58:15,905 - WARN - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 20:58:15,918 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 1001.0, selected floor: 1
+2021-10-18 20:58:28,495 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:58:28,514 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 20:58:28,514 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 20:59:07,395 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 35508 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:59:07,396 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:59:07,397 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:59:09,434 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.384 seconds (JVM running for 3.399)
+2021-10-18 20:59:09,704 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:59:09,710 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:59:09,737 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 20:59:09,738 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 20:59:09,750 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 20:59:09,750 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:59:09,759 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 20:59:09,782 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:59:09,783 - WARN - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 20:59:09,793 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 1001.0, selected floor: 1
+2021-10-18 20:59:09,794 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:59:09,803 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 20:59:09,804 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 20:59:26,017 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 10552 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:59:26,018 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:59:26,020 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:59:27,888 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.197 seconds (JVM running for 3.212)
+2021-10-18 20:59:28,197 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:59:28,203 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:59:28,232 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 20:59:28,233 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 20:59:28,242 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 20:59:28,242 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:59:28,249 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 20:59:28,268 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 20:59:28,269 - WARN - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 20:59:28,276 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 1001.0, selected floor: 1
+2021-10-18 20:59:28,277 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 20:59:28,286 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 20:59:28,286 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 20:59:49,047 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 42276 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 20:59:49,047 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 20:59:49,049 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 20:59:51,662 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 3.139 seconds (JVM running for 4.629)
+2021-10-18 20:59:52,113 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 1001.0, selected floor: 1
+2021-10-18 21:00:25,287 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:03:10,552 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 33016 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 21:03:10,553 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 21:03:10,557 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 21:03:13,435 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 3.406 seconds (JVM running for 4.824)
+2021-10-18 21:06:50,009 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 41428 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 21:06:50,010 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 21:06:50,013 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 21:06:51,867 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 2.18 seconds (JVM running for 3.171)
+2021-10-18 21:08:21,840 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 25576 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 21:08:21,841 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 21:08:21,842 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 21:08:23,782 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.285 seconds (JVM running for 3.294)
+2021-10-18 21:08:24,043 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 21:08:24,050 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:08:24,083 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 21:08:24,084 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 21:08:24,097 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 21:08:24,098 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:08:24,106 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 21:08:24,132 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 21:08:24,133 - WARN - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 21:08:24,147 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 1001.0, selected floor: 1
+2021-10-18 21:08:24,148 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:08:24,160 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 21:08:24,160 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 21:09:47,625 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 33248 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 21:09:47,626 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 21:09:47,627 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 21:09:49,481 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.158 seconds (JVM running for 3.135)
+2021-10-18 21:09:49,738 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 21:09:49,746 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <public> status has been updated successfully
+2021-10-18 21:09:49,747 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:09:49,779 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 21:09:49,780 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <freight> status has been updated successfully
+2021-10-18 21:09:49,780 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 21:09:49,793 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 21:09:49,794 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <public> status has been updated successfully
+2021-10-18 21:09:49,794 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:09:49,802 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 21:09:49,831 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 21:09:49,837 - WARN - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 21:09:49,849 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 1001.0, selected floor: 1
+2021-10-18 21:09:49,850 - WARN - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: [HTTP 403] Forbidden error: Elevator: <public> has turned its alarm ON, max weight surpassed. Will not operate
+2021-10-18 21:09:49,859 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 21:09:49,860 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 21:10:18,135 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 9076 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 21:10:18,136 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 21:10:18,140 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 21:10:20,017 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 2.195 seconds (JVM running for 3.185)
+2021-10-18 21:10:20,076 - WARN - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: [HTTP 403] Forbidden error: Elevator: <public> has turned its alarm ON, max weight surpassed. Will not operate
+2021-10-18 21:11:12,460 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 7724 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 21:11:12,461 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 21:11:12,468 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 21:11:14,450 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.333 seconds (JVM running for 3.324)
+2021-10-18 21:11:14,684 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 21:11:14,693 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <public> status has been updated successfully
+2021-10-18 21:11:14,694 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:11:14,723 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 21:11:14,724 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <freight> status has been updated successfully
+2021-10-18 21:11:14,724 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 21:11:14,742 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 21:11:14,744 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <public> status has been updated successfully
+2021-10-18 21:11:14,745 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:11:14,754 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 21:11:14,773 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 21:11:14,774 - WARN - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 21:11:14,784 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 21:11:14,784 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 21:11:14,910 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 7724 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 21:11:14,910 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 21:11:14,911 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 21:11:15,424 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 0.547 seconds (JVM running for 4.298)
+2021-10-18 21:11:15,435 - WARN - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: [HTTP 403] Forbidden error: Elevator: <public> has turned its alarm ON, max weight surpassed. Will not operate
+2021-10-18 21:12:42,973 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 7252 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 21:12:42,973 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 21:12:42,975 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 21:12:44,853 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.215 seconds (JVM running for 3.23)
+2021-10-18 21:12:45,080 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 21:12:45,085 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <public> status has been updated successfully
+2021-10-18 21:12:45,086 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:12:45,119 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 21:12:45,120 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <freight> status has been updated successfully
+2021-10-18 21:12:45,120 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 21:12:45,135 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 21:12:45,136 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <public> status has been updated successfully
+2021-10-18 21:12:45,138 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:12:45,152 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 21:12:45,172 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 21:12:45,173 - WARN - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 21:12:45,193 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 21:12:45,193 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 21:12:45,362 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 7252 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 21:12:45,363 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 21:12:45,363 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 21:12:45,831 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 0.544 seconds (JVM running for 4.208)
+2021-10-18 21:12:45,847 - WARN - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: [HTTP 403] Forbidden error: Elevator: <public> has turned its alarm ON, max weight surpassed. Will not operate
+2021-10-18 21:13:19,253 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 23196 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 21:13:19,254 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 21:13:19,267 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 21:13:21,212 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.315 seconds (JVM running for 3.349)
+2021-10-18 21:13:21,465 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 21:13:21,471 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <public> status has been updated successfully
+2021-10-18 21:13:21,472 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:13:21,497 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 21:13:21,498 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <freight> status has been updated successfully
+2021-10-18 21:13:21,498 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 21:13:21,507 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 21:13:21,508 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <public> status has been updated successfully
+2021-10-18 21:13:21,508 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:13:21,524 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 21:13:21,547 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 21:13:21,548 - WARN - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 21:13:21,557 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 21:13:21,558 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 21:13:21,751 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 23196 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 21:13:21,751 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 21:13:21,752 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 21:13:22,279 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 0.566 seconds (JVM running for 4.416)
+2021-10-18 21:13:22,290 - WARN - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: [HTTP 403] Forbidden error: Elevator: <public> has turned its alarm ON, max weight surpassed. Will not operate
+2021-10-18 21:26:49,593 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 35832 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 21:26:49,594 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 21:26:49,595 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 21:26:51,537 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.33 seconds (JVM running for 3.371)
+2021-10-18 21:26:51,750 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 21:26:51,756 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <public> status has been updated successfully
+2021-10-18 21:26:51,757 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:26:51,787 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 21:26:51,788 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <freight> status has been updated successfully
+2021-10-18 21:26:51,789 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 21:26:51,802 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 21:26:51,803 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <public> status has been updated successfully
+2021-10-18 21:26:51,804 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:26:51,814 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 21:26:51,838 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 21:26:51,838 - WARN - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 21:26:51,848 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 21:26:51,849 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 21:26:51,955 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 35832 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 21:26:51,955 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 21:26:51,956 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 21:26:52,570 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 0.648 seconds (JVM running for 4.403)
+2021-10-18 21:26:52,601 - WARN - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: [HTTP 403] Forbidden error: Elevator: <public> has turned its alarm ON, max weight surpassed. Will not operate
+2021-10-18 21:28:49,828 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorControllerTest using Java 1.8.0_111 on RY-PC01 with PID 30040 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 21:28:49,828 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 21:28:49,829 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 21:28:51,759 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorControllerTest in 2.334 seconds (JVM running for 3.364)
+2021-10-18 21:28:51,983 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 21:28:51,992 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <public> status has been updated successfully
+2021-10-18 21:28:51,993 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:28:52,036 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/freight, current weight: 70.0, selected floor: 50
+2021-10-18 21:28:52,037 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <freight> status has been updated successfully
+2021-10-18 21:28:52,038 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/freight is successful
+2021-10-18 21:28:52,050 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 15
+2021-10-18 21:28:52,051 - INFO - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: Elevator: <public> status has been updated successfully
+2021-10-18 21:28:52,051 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request for resource /elevators/public is successful
+2021-10-18 21:28:52,075 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/nonExistant
+2021-10-18 21:28:52,104 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: UpdateElevator - HTTP Patch - Request received for resource /elevators/public, current weight: 70.0, selected floor: 50
+2021-10-18 21:28:52,105 - WARN - com.ry.demo.elevatormgr.controller.ElevatorController: [HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor
+2021-10-18 21:28:52,123 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request received for resource /elevators/public
+2021-10-18 21:28:52,123 - INFO - com.ry.demo.elevatormgr.controller.ElevatorController: GetElevator - HTTP Get - Request for resource /elevators/public is successful
+2021-10-18 21:28:52,268 - INFO - org.springframework.boot.StartupInfoLogger: Starting ElevatorServiceTest using Java 1.8.0_111 on RY-PC01 with PID 30040 (started by Rodyan in C:\Program Files\eclipse\git\ElevatorManager\ElevatorManager)
+2021-10-18 21:28:52,269 - DEBUG - org.springframework.boot.StartupInfoLogger: Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-18 21:28:52,271 - INFO - org.springframework.boot.SpringApplication: No active profile set, falling back to default profiles: default
+2021-10-18 21:28:52,851 - INFO - org.springframework.boot.StartupInfoLogger: Started ElevatorServiceTest in 0.616 seconds (JVM running for 4.456)
+2021-10-18 21:28:52,879 - WARN - com.ry.demo.elevatormgr.service.ElevatorServiceImpl: [HTTP 403] Forbidden error: Elevator: <public> has turned its alarm ON, max weight surpassed. Will not operate

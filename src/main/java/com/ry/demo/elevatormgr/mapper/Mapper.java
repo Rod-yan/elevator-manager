@@ -1,9 +1,9 @@
 package com.ry.demo.elevatormgr.mapper;
 
-public interface Mapper<entityClazz, dtoClazz> {
+public interface Mapper<T, U> {
 	
-	dtoClazz convertToDto(entityClazz entity);
+	U convertToDto(T entity);
 	
-	entityClazz convertToEntity(dtoClazz dto);
+	T convertToEntity(U dto);
 	
 }

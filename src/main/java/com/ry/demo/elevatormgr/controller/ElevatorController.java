@@ -1,7 +1,9 @@
 package com.ry.demo.elevatormgr.controller;
 
 import java.util.HashMap;
+import java.util.Locale;
 import java.util.Map;
+import java.util.Objects;
 
 import javax.validation.Valid;
 
@@ -12,7 +14,9 @@ import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
+import org.springframework.validation.BindException;
 import org.springframework.validation.FieldError;
+import org.springframework.validation.ObjectError;
 import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -35,77 +39,82 @@ import com.ry.demo.elevatormgr.service.ElevatorService;
 @RestController
 public class ElevatorController {
 	
-	private static final Logger logger = LoggerFactory.getLogger(ElevatorController.class);
+	private static final Logger LOG = LoggerFactory.getLogger(ElevatorController.class);
 	
 	@Autowired
-    ElevatorService elevatorService;
+    private ElevatorService elevatorService;
 	@Autowired
-    BasicElevatorMapperImpl elevatorUpdateMapper;
+    private BasicElevatorMapperImpl elevatorUpdateMapper;
 	
 	@GetMapping(value = { "/elevators/{denomination}" }, produces = MediaType.APPLICATION_JSON_VALUE)
 	public ResponseEntity<?> getElevator(@PathVariable("denomination") String denomination) {
-		logger.info("GetElevator - HTTP Get - Request received for resource /elevators/" + denomination);
+		LOG.info("GetElevator - HTTP Get - Request received for resource /elevators/{0}", denomination);
 		Elevator elevator = null;
 		try {
-			elevator = elevatorService.getElevatorByDenomination(denomination.toLowerCase());
-		} catch (Exception ex) {
+			elevator = elevatorService.getElevatorByDenomination(denomination.toLowerCase(Locale.getDefault()));
+		} catch (RuntimeException ex) {
 			ex.printStackTrace();
-			return new ResponseEntity<ApiError>(new ApiError("Unhandled exception", "Please contact your systems' administrator"),
+			return new ResponseEntity<>(
+			        new ApiError("Unhandled exception", "Please contact your systems' administrator"),
 					HttpStatus.INTERNAL_SERVER_ERROR);
 		}
 		
 		if (elevator != null) {
-			logger.info("GetElevator - HTTP Get - Request for resource /elevators/" + denomination + " is successful");
-			return new ResponseEntity<BasicElevatorDto>(elevatorUpdateMapper.convertToDto(elevator), HttpStatus.OK);
+			LOG.info("GetElevator - HTTP Get - Request for resource /elevators/{0} is successful", denomination);
+			return new ResponseEntity<>(elevatorUpdateMapper.convertToDto(elevator), HttpStatus.OK);
 		} else {
-			return new ResponseEntity<ApiError>(new ApiError("Not found", "No elevator was found for the specified denomination"),
+			return new ResponseEntity<>(
+			        new ApiError("Not found", "No elevator was found for the specified denomination"),
 					HttpStatus.NOT_FOUND);
 		}
 	}
 	
-	@PatchMapping(value = { "/elevators/{denomination}" }, consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
+	@PatchMapping(value = { "/elevators/{denomination}" }, 
+	        consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<?> updateElevator(@PathVariable("denomination") String denomination, 
     		@Valid @RequestBody BasicElevatorDto updateElevatorDto, @RequestHeader HttpHeaders headers) {
 		
-		logger.info("UpdateElevator - HTTP Patch - Request received for resource /elevators/" + denomination
-				+ ", current weight: " + updateElevatorDto.getCurrentWeight()
-				+ ", selected floor: " + updateElevatorDto.getCurrentFloor());
+		LOG.info("UpdateElevator - HTTP Patch - Request received for resource /elevators/{0}"
+				+ ", current weight: {1}"
+				+ ", selected floor: {2}", 
+				denomination, updateElevatorDto.getCurrentWeight(), updateElevatorDto.getCurrentFloor());
 		
 		Elevator elevator = elevatorUpdateMapper.convertToEntity(updateElevatorDto);
-		elevator.setDenomination(denomination.toLowerCase());
+		elevator.setDenomination(denomination.toLowerCase(Locale.getDefault()));
 		
 		try {
 			if (!isKeycardAuthenticationSuccessful(elevator, headers)) {
-				return new ResponseEntity<ApiError>(new ApiError("Access denied", 
+				return new ResponseEntity<>(new ApiError("Access denied", 
 						"You need a specific Keycard to access this Floor"), 
 						HttpStatus.FORBIDDEN);
 			}
 			
 			elevatorService.updateElevator(elevator);
 		} catch (AlarmMechanismException ex) {
-			return new ResponseEntity<ApiError>(new ApiError("Won't operate", ex.getLocalizedMessage()), 
+			return new ResponseEntity<>(new ApiError("Won't operate", ex.getLocalizedMessage()), 
 					HttpStatus.FORBIDDEN);
 		} catch (EntityNotFoundException ex) {
-			return new ResponseEntity<ApiError>(new ApiError("Not found", ex.getLocalizedMessage()),
+			return new ResponseEntity<>(new ApiError("Not found", ex.getLocalizedMessage()),
 					HttpStatus.NOT_FOUND);
-		} catch (Exception ex) {
+		} catch (RuntimeException ex) {
 			ex.printStackTrace();
-			return new ResponseEntity<ApiError>(new ApiError("Unhandled exception", "Please contact your systems' administrator"),
+			return new ResponseEntity<>(
+			        new ApiError("Unhandled exception", "Please contact your systems' administrator"),
 					HttpStatus.INTERNAL_SERVER_ERROR);
 		}
 		
-		logger.info("UpdateElevator - HTTP Patch - Request for resource /elevators/" + denomination + " is successful");
+		LOG.info("UpdateElevator - HTTP Patch - Request for resource /elevators/{0} is successful", denomination);
 		return new ResponseEntity<>(HttpStatus.NO_CONTENT);
     }
 	
 	@ResponseStatus(HttpStatus.BAD_REQUEST)
     @ExceptionHandler(MethodArgumentNotValidException.class)
-    public Map<String, String> handleValidationExceptions(MethodArgumentNotValidException ex) {
+    public Map<String, String> handleValidationExceptions(BindException ex) {
         Map<String, String> errors = new HashMap<>();
-        ex.getBindingResult().getAllErrors().forEach((error) -> {
-            String fieldName = ((FieldError) error).getField();
-            String message = error.getDefaultMessage();
-            errors.put(fieldName, message);
+        ex.getBindingResult().getAllErrors().forEach((ObjectError error) -> {
+              String fieldName = ((FieldError) error).getField();
+              String message = error.getDefaultMessage();
+              errors.put(fieldName, message);
         });
         return errors;
     }
@@ -113,23 +122,23 @@ public class ElevatorController {
 	private boolean isKeycardAuthenticationSuccessful(Elevator elevator, HttpHeaders headers) {
 		// Keycard authorization constraint
 		Elevator entity = elevatorService.getElevatorByDenomination(elevator.getDenomination());
-		if (entity != null) {
-			for (Map.Entry<Floor, Boolean> entry : entity.getAvailableFloors().entrySet()) {
-				if (entry.getKey().getNumber() == elevator.getCurrentFloor() && entry.getValue() == true) {
-					if (!isBasicAuthenticationSuccessful(headers.getFirst(HttpHeaders.AUTHORIZATION))){
-						logger.warn("[HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor");
-						return false;
-					}
-				}
+		if (entity == null) {
+		      throw new EntityNotFoundException();
+		}
+		
+		for (Map.Entry<Floor, Boolean> entry : entity.getAvailableFloors().entrySet()) {
+		    if (Objects.equals(entry.getKey().getNumber(), elevator.getCurrentFloor()) 
+		            && Boolean.TRUE.equals(entry.getValue())
+		            && !isBasicAuthenticationSuccessful(headers.getFirst(HttpHeaders.AUTHORIZATION))) {
+					LOG.warn("[HTTP 403] Forbidden error: Provided Keycard is not authorized to access requested floor");
+					return false;
 			}
-		} else {
-			throw new EntityNotFoundException();
 		}
 		
 		return true;
 	}
 	
-	private boolean isBasicAuthenticationSuccessful(String authHeader) {
+	private static boolean isBasicAuthenticationSuccessful(String authHeader) {
 		return "Basic YWRtaW46YWRtaW4xMjM=".equalsIgnoreCase(authHeader);
 	}
 }

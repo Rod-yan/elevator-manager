@@ -10,8 +10,13 @@ import com.ry.demo.elevatormgr.model.Elevator;
 @Repository
 public class ElevatorMockPersistenceDaoImpl implements ElevatorDao {
 
+	private BuildingMockPersistenceDaoImpl buildingDao;
+	
 	@Autowired
-	BuildingMockPersistenceDaoImpl buildingDao;
+	ElevatorMockPersistenceDaoImpl(BuildingMockPersistenceDaoImpl buildingDao) {
+	    this.buildingDao = buildingDao;
+	}
+
 	
 	@Override
 	public Elevator getElevatorByDenomination(String denomination) {
@@ -19,7 +24,7 @@ public class ElevatorMockPersistenceDaoImpl implements ElevatorDao {
 			if (e.getDenomination().equalsIgnoreCase(denomination)) {
 				return e;
 			}
-		};
+		}
 		return null;
 	}
 	

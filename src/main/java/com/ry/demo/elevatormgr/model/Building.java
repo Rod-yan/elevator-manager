@@ -6,41 +6,48 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class Building {
+public final class Building {
+    
+    private static Building instance;
 	
 	private Integer id;
 	private List<Floor> floors;
 	private Set<Elevator> elevators;
 	private String description;
-	
-	private static Building instance;
     
     private Building() {
-    	id = 1;
-    	elevators = new HashSet<Elevator>(0);
+    	final int UPPERFLOORLIMIT = 50;
+        final Double PUBLIC_ELEVATOR_MAXCAPACITY = 1000.0;
+        final Double FREIGHT_ELEVATOR_MAXCAPACITY = 1000.0;
+    	
+        id = 1;
+    	elevators = new HashSet<>(0);
     	description = "Default Building";
-    	this.floors = new ArrayList<Floor>();
+    	this.floors = new ArrayList<>();
     	int i = -1;
-    	while (i <= 50) {
-    		this.floors.add(new Floor(i++));
+    	while (i <= UPPERFLOORLIMIT) {
+    		this.floors.add(new Floor(i));
+    		i++;
     	}
     	
-    	Elevator publ = new Elevator("Public", 1000.0);
-    	HashMap<Floor, Boolean> publicFloorsMap = new HashMap<Floor, Boolean>();
+    	Elevator publ = new Elevator("Public", PUBLIC_ELEVATOR_MAXCAPACITY);
+    	HashMap<Floor, Boolean> publicFloorsMap = new HashMap<>();
     	publicFloorsMap.put(new Floor(-1), true);
     	i = 0;
     	while (i <= 49) {
-    		publicFloorsMap.put(new Floor(i++), false);
+    		publicFloorsMap.put(new Floor(i), false);
+    		i++;
     	}
     	publicFloorsMap.put(new Floor(50), true);
     	publ.setAvailableFloors(publicFloorsMap);
     	elevators.add(publ);
     	
     	i = -1;
-    	Elevator freight = new Elevator("Freight", 3000.0);
-    	HashMap<Floor, Boolean> freightFloorsMap = new HashMap<Floor, Boolean>();
-    	while (i <= 50) {
-    		freightFloorsMap.put(new Floor(i++), false);
+    	Elevator freight = new Elevator("Freight", FREIGHT_ELEVATOR_MAXCAPACITY);
+    	HashMap<Floor, Boolean> freightFloorsMap = new HashMap<>();
+    	while (i <= UPPERFLOORLIMIT) {
+    		freightFloorsMap.put(new Floor(i), false);
+    		i++;
     	}
     	freight.setAvailableFloors(freightFloorsMap);
     	elevators.add(freight);
@@ -61,16 +68,16 @@ public class Building {
 		this.id = id;
 	}
 	public List<Floor> getFloors() {
-		return floors;
+		return new ArrayList<>(floors);
 	}
 	public void setFloors(List<Floor> floors) {
-		this.floors = floors;
+		this.floors = new ArrayList<>(floors);
 	}
 	public Set<Elevator> getElevators() {
-		return elevators;
+		return new HashSet<>(elevators);
 	}
 	public void setElevators(Set<Elevator> elevators) {
-		this.elevators = elevators;
+		this.elevators = new HashSet<>(elevators);
 	}
 	public String getDescription() {
 		return description;

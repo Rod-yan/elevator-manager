@@ -28,9 +28,8 @@ public class AppConfig implements WebMvcConfigurer {
 	public ModelMapper modelMapper() {
 		ModelMapper modelMapper = new ModelMapper();
 		// UpdateElevatorDto -> Elevator
-		modelMapper.createTypeMap(BasicElevatorDto.class, Elevator.class).addMappings(mapper -> {
-			mapper.skip(Elevator::setAvailableFloors);
-		});
+		modelMapper.createTypeMap(BasicElevatorDto.class, Elevator.class).addMappings(
+		        mapper -> mapper.skip(Elevator::setAvailableFloors));
 	    return modelMapper;
 	}
 }

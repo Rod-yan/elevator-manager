@@ -16,7 +16,7 @@ public class ApiError {
 	}
 	
 	public ApiError(String message, String detail) {
-        this();
+	    this();
         this.errorMessage = message;
         this.detail = detail;
     }

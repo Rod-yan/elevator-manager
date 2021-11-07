@@ -32,7 +32,7 @@ import com.ry.demo.elevatormgr.service.ElevatorService;
 
 @WebMvcTest(ElevatorController.class)
 @ContextConfiguration(classes={ElevatorManagerApplication.class, AppInitializer.class, AppConfig.class})
-public class ElevatorControllerTest {
+class ElevatorControllerTest {
 
 	@Autowired
     MockMvc mockMvc;
@@ -67,7 +67,7 @@ public class ElevatorControllerTest {
     }
 	
 	@Test
-	public void GetElevator_200_ReturnElevatorData() throws Exception {
+	void testGetElevator200ReturnElevatorData() throws Exception {
 		Mockito.when(service.getElevatorByDenomination("public")).thenReturn(testElevator_1);
 		
 		mockMvc.perform(get("/elevators/public")
@@ -79,13 +79,13 @@ public class ElevatorControllerTest {
 	}
 	
 	@Test
-	public void GetElevator_404_ShouldReturnNotFoundError() throws Exception {
+	void testGetElevator404ShouldReturnNotFoundError() throws Exception {
 		mockMvc.perform(get("/elevators/nonExistant"))
 			.andDo(print()).andExpect(status().isNotFound());
 	}
 	
 	@Test
-	public void UpdateElevator_204_UpdateEntityAndReturnNoContent() throws Exception {
+	void testUpdateElevator204UpdateEntityAndReturnNoContent() throws Exception {
 		testElevator_1.setCurrentFloor(15);
 		testElevator_1.setCurrentWeight(70.0);
 		
@@ -102,7 +102,7 @@ public class ElevatorControllerTest {
 	}
 	
 	@Test
-	public void UpdateElevator_401_FailedKeycardAuthentication() throws Exception {
+	void testUpdateElevator401FailedKeycardAuthentication() throws Exception {
 		testElevator_1.setCurrentFloor(50);
 		testElevator_1.setCurrentWeight(70.0);
 		
@@ -119,7 +119,7 @@ public class ElevatorControllerTest {
 	}
 	
 	@Test
-	public void UpdateElevator_203_SuccessfulKeycardAuthentication() throws Exception {
+	void testUpdateElevator203SuccessfulKeycardAuthentication() throws Exception {
 		testElevator_1.setCurrentFloor(50);
 		testElevator_1.setCurrentWeight(70.0);
 		
@@ -137,7 +137,7 @@ public class ElevatorControllerTest {
 	}
 	
 	@Test
-	public void UpdateElevator_203_SkipsAuthentication() throws Exception {
+	void testUpdateElevator203SkipsAuthentication() throws Exception {
 		testElevator_2.setCurrentFloor(50);
 		testElevator_2.setCurrentWeight(70.0);
 		

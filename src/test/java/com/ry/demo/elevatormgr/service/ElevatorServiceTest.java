@@ -21,7 +21,7 @@ import com.ry.demo.elevatormgr.model.Floor;
 
 @WebMvcTest(ElevatorService.class)
 @ContextConfiguration(classes={ElevatorManagerApplication.class, AppInitializer.class, AppConfig.class})
-public class ElevatorServiceTest {
+class ElevatorServiceTest {
 
     @MockBean
     ElevatorDao dao;
@@ -45,7 +45,7 @@ public class ElevatorServiceTest {
     }
 	
 	@Test
-	public void UpdateElevator_AlarmMechanismTurnsOn() throws Exception {
+	void testUpdateElevatorAlarmMechanismTurnsOn() throws Exception {
 		testElevator_1.setCurrentWeight(1050.0);
 		testElevator_1.setCurrentFloor(15);
 		

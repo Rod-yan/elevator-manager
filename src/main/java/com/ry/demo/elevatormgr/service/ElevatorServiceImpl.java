@@ -13,10 +13,14 @@ import com.ry.demo.elevatormgr.model.Elevator;
 @Service("elevatorService")
 public class ElevatorServiceImpl implements ElevatorService {
 	
-	private static final Logger logger = LoggerFactory.getLogger(ElevatorServiceImpl.class);
+	private static final Logger LOG = LoggerFactory.getLogger(ElevatorServiceImpl.class);
+	
+	private ElevatorDao elevatorDao;
 	
 	@Autowired
-	private ElevatorDao elevatorDao;
+	ElevatorServiceImpl(ElevatorDao elevatorDao) {
+        this.elevatorDao = elevatorDao;
+    }
 	
 	public Elevator getElevatorByDenomination(String denomination) {
 		return elevatorDao.getElevatorByDenomination(denomination);
@@ -27,12 +31,13 @@ public class ElevatorServiceImpl implements ElevatorService {
 		if (entity != null) {
 			// Alarm mechanism
 			if (entity.getMaxWeight() < elevator.getCurrentWeight()) {
-				logger.warn("[HTTP 403] Forbidden error: Elevator: <"+entity.getDenomination()+"> has turned its alarm ON, max weight surpassed. Will not operate");
+				LOG.warn("[HTTP 403] Forbidden error: Elevator: <{0}> has turned its alarm ON, "
+				        + "max weight surpassed. Will not operate", entity.getDenomination());
 				throw new AlarmMechanismException();
 			}
 			
 			elevatorDao.updateElevator(elevator);		
-			logger.info("Elevator: <"+entity.getDenomination()+"> status has been updated successfully");
+			LOG.info("Elevator: <{0}> status has been updated successfully", entity.getDenomination());
 		} else {
 			throw new EntityNotFoundException();
 		}

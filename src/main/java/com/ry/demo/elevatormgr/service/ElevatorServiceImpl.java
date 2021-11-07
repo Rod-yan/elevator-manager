@@ -28,18 +28,20 @@ public class ElevatorServiceImpl implements ElevatorService {
 	
 	public void updateElevator(Elevator elevator) {
 		Elevator entity = getElevatorByDenomination(elevator.getDenomination());
-		if (entity != null) {
-			// Alarm mechanism
-			if (entity.getMaxWeight() < elevator.getCurrentWeight()) {
-				LOG.warn("[HTTP 403] Forbidden error: Elevator: <{0}> has turned its alarm ON, "
-				        + "max weight surpassed. Will not operate", entity.getDenomination());
-				throw new AlarmMechanismException();
-			}
-			
-			elevatorDao.updateElevator(elevator);		
-			LOG.info("Elevator: <{0}> status has been updated successfully", entity.getDenomination());
-		} else {
-			throw new EntityNotFoundException();
+		if (entity == null) {
+		    String message = String.format("Elevator: <%s> couldn't be found", elevator.getDenomination());
+		    throw new EntityNotFoundException(message);
 		}
+		
+		// Alarm mechanism
+		if (entity.getMaxWeight() < elevator.getCurrentWeight()) {
+		    String message = String.format("Elevator: <%s> has turned its alarm ON, max weight surpassed. "
+		            + "Will not operate", entity.getDenomination());
+			LOG.warn(message);
+			throw new AlarmMechanismException(message);
+		}
+		
+		elevatorDao.updateElevator(elevator);
+		LOG.info("Elevator: <{}> status has been updated successfully", entity.getDenomination());
 	}
 }

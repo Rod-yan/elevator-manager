@@ -8,4 +8,8 @@ public class AlarmMechanismException extends RuntimeException {
 	public AlarmMechanismException() {
 		super();
 	}
+	
+	public AlarmMechanismException(String message) {
+	    super(message);
+	}
 }

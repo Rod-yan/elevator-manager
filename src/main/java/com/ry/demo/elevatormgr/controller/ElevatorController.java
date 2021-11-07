@@ -48,7 +48,7 @@ public class ElevatorController {
 	
 	@GetMapping(value = { "/elevators/{denomination}" }, produces = MediaType.APPLICATION_JSON_VALUE)
 	public ResponseEntity<?> getElevator(@PathVariable("denomination") String denomination) {
-		LOG.info("GetElevator - HTTP Get - Request received for resource /elevators/{0}", denomination);
+		LOG.info("GetElevator - HTTP Get - Request received for resource /elevators/{}", denomination);
 		Elevator elevator = null;
 		try {
 			elevator = elevatorService.getElevatorByDenomination(denomination.toLowerCase(Locale.getDefault()));
@@ -60,7 +60,7 @@ public class ElevatorController {
 		}
 		
 		if (elevator != null) {
-			LOG.info("GetElevator - HTTP Get - Request for resource /elevators/{0} is successful", denomination);
+			LOG.info("GetElevator - HTTP Get - Request for resource /elevators/{} is successful", denomination);
 			return new ResponseEntity<>(elevatorUpdateMapper.convertToDto(elevator), HttpStatus.OK);
 		} else {
 			return new ResponseEntity<>(
@@ -74,9 +74,9 @@ public class ElevatorController {
     public ResponseEntity<?> updateElevator(@PathVariable("denomination") String denomination, 
     		@Valid @RequestBody BasicElevatorDto updateElevatorDto, @RequestHeader HttpHeaders headers) {
 		
-		LOG.info("UpdateElevator - HTTP Patch - Request received for resource /elevators/{0}"
-				+ ", current weight: {1}"
-				+ ", selected floor: {2}", 
+		LOG.info("UpdateElevator - HTTP Patch - Request received for resource /elevators/{}"
+				+ ", current weight: {}"
+				+ ", selected floor: {}", 
 				denomination, updateElevatorDto.getCurrentWeight(), updateElevatorDto.getCurrentFloor());
 		
 		Elevator elevator = elevatorUpdateMapper.convertToEntity(updateElevatorDto);
@@ -91,7 +91,7 @@ public class ElevatorController {
 			
 			elevatorService.updateElevator(elevator);
 		} catch (AlarmMechanismException ex) {
-			return new ResponseEntity<>(new ApiError("Won't operate", ex.getLocalizedMessage()), 
+			return new ResponseEntity<>(new ApiError("Won't operate", ex.getLocalizedMessage()),
 					HttpStatus.FORBIDDEN);
 		} catch (EntityNotFoundException ex) {
 			return new ResponseEntity<>(new ApiError("Not found", ex.getLocalizedMessage()),
@@ -103,7 +103,7 @@ public class ElevatorController {
 					HttpStatus.INTERNAL_SERVER_ERROR);
 		}
 		
-		LOG.info("UpdateElevator - HTTP Patch - Request for resource /elevators/{0} is successful", denomination);
+		LOG.info("UpdateElevator - HTTP Patch - Request for resource /elevators/{} is successful", denomination);
 		return new ResponseEntity<>(HttpStatus.NO_CONTENT);
     }
 	
@@ -123,7 +123,8 @@ public class ElevatorController {
 		// Keycard authorization constraint
 		Elevator entity = elevatorService.getElevatorByDenomination(elevator.getDenomination());
 		if (entity == null) {
-		      throw new EntityNotFoundException();
+		    String message = String.format("Elevator: <%s> couldn't be found", elevator.getDenomination());
+		    throw new EntityNotFoundException(message);
 		}
 		
 		for (Map.Entry<Floor, Boolean> entry : entity.getAvailableFloors().entrySet()) {

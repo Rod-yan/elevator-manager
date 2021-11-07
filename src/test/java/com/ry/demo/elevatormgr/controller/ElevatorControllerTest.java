@@ -53,7 +53,8 @@ class ElevatorControllerTest {
     	publicFloorsMap.put(new Floor(-1), true);
     	int i = 0;
     	while (i <= 49) {
-    		publicFloorsMap.put(new Floor(i++), false);
+    		publicFloorsMap.put(new Floor(i), false);
+    		i++;
     	}
     	publicFloorsMap.put(new Floor(50), true);
     	testElevator_1.setAvailableFloors(publicFloorsMap);
@@ -61,7 +62,8 @@ class ElevatorControllerTest {
     	i = -1;
     	HashMap<Floor, Boolean> freightFloorsMap = new HashMap<Floor, Boolean>();
     	while (i <= 50) {
-    		freightFloorsMap.put(new Floor(i++), false);
+    		freightFloorsMap.put(new Floor(i), false);
+    		i++;
     	}
     	testElevator_2.setAvailableFloors(freightFloorsMap);
     }

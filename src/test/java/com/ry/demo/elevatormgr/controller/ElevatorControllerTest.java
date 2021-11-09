@@ -154,4 +154,21 @@ class ElevatorControllerTest {
 			.andExpect(status().isNoContent())
 			.andDo(print());
 	}
+	
+	@Test
+    void testUpdateElevator300BadRequest() throws Exception {
+        testElevator_1.setCurrentFloor(51);
+        testElevator_1.setCurrentWeight(99999.0);
+        
+        Mockito.when(service.getElevatorByDenomination("public")).thenReturn(testElevator_1);
+        
+        MockHttpServletRequestBuilder mockRequest = MockMvcRequestBuilders.patch("/elevators/public")
+                .contentType(MediaType.APPLICATION_JSON)
+                .accept(MediaType.APPLICATION_JSON)
+                .content(this.mapper.writeValueAsString(testElevator_1));
+        
+        mockMvc.perform(mockRequest)
+            .andExpect(status().isBadRequest())
+            .andDo(print());
+    }
 }

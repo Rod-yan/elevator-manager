@@ -11,17 +11,17 @@ import com.ry.demo.elevatormgr.model.Elevator;
 
 @Component
 public class BasicElevatorMapperImpl implements Mapper<Elevator, BasicElevatorDto> {
-	
-	@Autowired
-    private ModelMapper modelMapper;
-	
-	@Override
-	public BasicElevatorDto convertToDto(Elevator elevator) {
-		return modelMapper.map(elevator, BasicElevatorDto.class);
-	}
-	
-	@Override
-	public Elevator convertToEntity(@Valid BasicElevatorDto updateElevatorDto) {
-		return modelMapper.map(updateElevatorDto, Elevator.class);
-	}
+
+  @Autowired
+  private ModelMapper modelMapper;
+
+  @Override
+  public BasicElevatorDto convertToDto(Elevator elevator) {
+    return modelMapper.map(elevator, BasicElevatorDto.class);
+  }
+
+  @Override
+  public Elevator convertToEntity(@Valid BasicElevatorDto updateElevatorDto) {
+    return modelMapper.map(updateElevatorDto, Elevator.class);
+  }
 }

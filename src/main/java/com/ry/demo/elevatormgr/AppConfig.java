@@ -11,25 +11,25 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 import com.ry.demo.elevatormgr.dto.BasicElevatorDto;
 import com.ry.demo.elevatormgr.model.Elevator;
- 
+
 @Configuration
 @EnableWebMvc
 @ComponentScan(basePackages = "com.ry.demo.elevatormgr")
 public class AppConfig implements WebMvcConfigurer {
-	
-	@Bean
-    public MessageSource messageSource() {
-        ResourceBundleMessageSource messageSource = new ResourceBundleMessageSource();
-        messageSource.setBasename("ValidationMessages");
-        return messageSource;
-    }
-	
-	@Bean
-	public ModelMapper modelMapper() {
-		ModelMapper modelMapper = new ModelMapper();
-		// UpdateElevatorDto -> Elevator
-		modelMapper.createTypeMap(BasicElevatorDto.class, Elevator.class).addMappings(
-		        mapper -> mapper.skip(Elevator::setAvailableFloors));
-	    return modelMapper;
-	}
+
+  @Bean
+  public MessageSource messageSource() {
+    ResourceBundleMessageSource messageSource = new ResourceBundleMessageSource();
+    messageSource.setBasename("ValidationMessages");
+    return messageSource;
+  }
+
+  @Bean
+  public ModelMapper modelMapper() {
+    ModelMapper modelMapper = new ModelMapper();
+    // UpdateElevatorDto -> Elevator
+    modelMapper.createTypeMap(BasicElevatorDto.class, Elevator.class).addMappings(
+        mapper -> mapper.skip(Elevator::setAvailableFloors));
+    return modelMapper;
+  }
 }

@@ -1,13 +1,11 @@
 package com.ry.demo.elevatormgr.mapper;
 
+import com.ry.demo.elevatormgr.dto.BasicElevatorDto;
+import com.ry.demo.elevatormgr.model.Elevator;
 import javax.validation.Valid;
-
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-
-import com.ry.demo.elevatormgr.dto.BasicElevatorDto;
-import com.ry.demo.elevatormgr.model.Elevator;
 
 @Component
 public class BasicElevatorMapperImpl implements Mapper<Elevator, BasicElevatorDto> {

@@ -7,8 +7,14 @@ import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.ry.demo.elevatormgr.AppConfig;
+import com.ry.demo.elevatormgr.AppInitializer;
+import com.ry.demo.elevatormgr.ElevatorManagerApplication;
+import com.ry.demo.elevatormgr.model.Elevator;
+import com.ry.demo.elevatormgr.model.Floor;
+import com.ry.demo.elevatormgr.service.ElevatorService;
 import java.util.HashMap;
-
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
@@ -21,14 +27,6 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.request.MockHttpServletRequestBuilder;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
-
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.ry.demo.elevatormgr.AppConfig;
-import com.ry.demo.elevatormgr.AppInitializer;
-import com.ry.demo.elevatormgr.ElevatorManagerApplication;
-import com.ry.demo.elevatormgr.model.Elevator;
-import com.ry.demo.elevatormgr.model.Floor;
-import com.ry.demo.elevatormgr.service.ElevatorService;
 
 @WebMvcTest(ElevatorController.class)
 @ContextConfiguration(classes = {ElevatorManagerApplication.class, AppInitializer.class,
@@ -50,7 +48,7 @@ class ElevatorControllerTest {
     testElevator_1 = new Elevator("public", 1000.0);
     testElevator_2 = new Elevator("freight", 3000.0);
 
-    HashMap<Floor, Boolean> publicFloorsMap = new HashMap<Floor, Boolean>();
+    HashMap<Floor, Boolean> publicFloorsMap = new HashMap<>();
     publicFloorsMap.put(new Floor(-1), true);
     int i = 0;
     while (i <= 49) {
@@ -61,7 +59,7 @@ class ElevatorControllerTest {
     testElevator_1.setAvailableFloors(publicFloorsMap);
 
     i = -1;
-    HashMap<Floor, Boolean> freightFloorsMap = new HashMap<Floor, Boolean>();
+    HashMap<Floor, Boolean> freightFloorsMap = new HashMap<>();
     while (i <= 50) {
       freightFloorsMap.put(new Floor(i), false);
       i++;

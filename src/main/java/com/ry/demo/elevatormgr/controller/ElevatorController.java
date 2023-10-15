@@ -1,15 +1,20 @@
 package com.ry.demo.elevatormgr.controller;
 
+import com.ry.demo.elevatormgr.dto.BasicElevatorDto;
+import com.ry.demo.elevatormgr.error.AlarmMechanismException;
+import com.ry.demo.elevatormgr.error.ApiError;
+import com.ry.demo.elevatormgr.error.EntityNotFoundException;
+import com.ry.demo.elevatormgr.mapper.BasicElevatorMapperImpl;
+import com.ry.demo.elevatormgr.model.Elevator;
+import com.ry.demo.elevatormgr.model.Floor;
+import com.ry.demo.elevatormgr.service.ElevatorService;
 import java.util.HashMap;
 import java.util.Locale;
 import java.util.Map;
 import java.util.Objects;
-
 import javax.validation.Valid;
-
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
@@ -27,29 +32,24 @@ import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.ry.demo.elevatormgr.dto.BasicElevatorDto;
-import com.ry.demo.elevatormgr.error.AlarmMechanismException;
-import com.ry.demo.elevatormgr.error.ApiError;
-import com.ry.demo.elevatormgr.error.EntityNotFoundException;
-import com.ry.demo.elevatormgr.mapper.BasicElevatorMapperImpl;
-import com.ry.demo.elevatormgr.model.Elevator;
-import com.ry.demo.elevatormgr.model.Floor;
-import com.ry.demo.elevatormgr.service.ElevatorService;
-
 @RestController
 public class ElevatorController {
 
   private static final Logger LOG = LoggerFactory.getLogger(ElevatorController.class);
 
-  @Autowired
-  private ElevatorService elevatorService;
-  @Autowired
-  private BasicElevatorMapperImpl elevatorUpdateMapper;
+  private final ElevatorService elevatorService;
+  private final BasicElevatorMapperImpl elevatorUpdateMapper;
+
+  public ElevatorController(ElevatorService elevatorService,
+      BasicElevatorMapperImpl elevatorUpdateMapper) {
+    this.elevatorService = elevatorService;
+    this.elevatorUpdateMapper = elevatorUpdateMapper;
+  }
 
   @GetMapping(value = {"/elevators/{denomination}"}, produces = MediaType.APPLICATION_JSON_VALUE)
   public ResponseEntity<?> getElevator(@PathVariable("denomination") String denomination) {
     LOG.info("GetElevator - HTTP Get - Request received for resource /elevators/{}", denomination);
-    Elevator elevator = null;
+    Elevator elevator;
     try {
       elevator = elevatorService.getElevatorByDenomination(
           denomination.toLowerCase(Locale.getDefault()));
